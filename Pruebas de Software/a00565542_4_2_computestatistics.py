@@ -16,17 +16,54 @@ Autor: Héctor Raúl Vázquez González - A00565542.
 import sys
 import time
 
+# Reading file name from parameters
+FILE_NAME = sys.argv[1]
+WRITE_FILE = "StatisticsResults.txt"
 
-def read_file():
-    """Read a file."""
-    with open("P3/" + FILE_NAME, mode='r', encoding='utf-8') as file:
-        data = file.readlines()
-        file.close()
-        return data
+def calcular_estadisticas(archivo_entrada, archivo_salida):
+    try:
+        with open(archivo_entrada, 'r') as file:
+            # Lee la lista de números desde el archivo y convierte a una lista de floats
+            lista_numeros = [float(line.strip()) for line in file.readlines()]
 
-def write_document(data):
-    """Create a file."""
-    with open("P3/" + WRITE_FILE, mode='a', encoding='utf-8') as file:
-        file.write(data)
-        file.close()
-        return true
+            # Calcula las estadísticas sin usar librerías externas
+            n = len(lista_numeros)
+            mean = sum(lista_numeros) / n
+
+            # Calcula la mediana
+            lista_numeros.sort()
+            if n % 2 == 0:
+                median = (lista_numeros[n // 2 - 1] + lista_numeros[n // 2]) / 2
+            else:
+                median = lista_numeros[n // 2]
+
+            # Calcula la moda
+            conteo = {}
+            for numero in lista_numeros:
+                conteo[numero] = conteo.get(numero, 0) + 1
+            moda = max(conteo, key=conteo.get)
+
+            # Calcula la desviación estándar y la varianza
+            suma_cuadrados = sum((x - mean) ** 2 for x in lista_numeros)
+            stdev = (suma_cuadrados / n)**0.5
+            variance = suma_cuadrados / n
+
+            # Guarda los resultados en un archivo de salida
+            with open(archivo_salida, 'w') as output_file:
+                output_file.write(f'Media: {mean}\n')
+                output_file.write(f'Mediana: {median}\n')
+                output_file.write(f'Moda: {moda}\n')
+                output_file.write(f'Desviación Estándar: {stdev}\n')
+                output_file.write(f'Varianza: {variance}\n')
+
+            print(f'Las estadísticas se han guardado en el archivo: {archivo_salida}')
+
+    except FileNotFoundError:
+        print(f'Error: El archivo "{archivo_entrada}" no se encuentra.')
+    except ValueError:
+        print('Error: El archivo debe contener solo números.')
+
+def main():
+    """Principal function to count words"""
+    calcular_estadisticas(FILE_NAME, WRITE_FILE)
+print(main())
