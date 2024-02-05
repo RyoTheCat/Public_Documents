@@ -25,6 +25,7 @@ def write_document(data):
     with open("P3/" + WRITE_FILE, mode='a', encoding='utf-8') as file:
         file.write(data)
         file.close()
+        return true
 
 def main():
     """Principal function to count words"""
