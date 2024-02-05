@@ -16,17 +16,50 @@ Autor: Héctor Raúl Vázquez González - A00565542.
 import sys
 import time
 
+# Reading file name from parameters
+FILE_NAME = sys.argv[1]
+WRITE_FILE = "ConvertionResults.txt"
 
-def read_file():
-    """Read a file."""
-    with open("P3/" + FILE_NAME, mode='r', encoding='utf-8') as file:
-        data = file.readlines()
-        file.close()
-        return data
+def convert_to_binary_and_hexadecimal(numbers):
+    binary_results = [bin(num)[2:] for num in numbers]
+    hexadecimal_results = [hex(num)[2:].upper() for num in numbers]
+    return binary_results, hexadecimal_results
 
-def write_document(data):
-    """Create a file."""
-    with open("P3/" + WRITE_FILE, mode='a', encoding='utf-8') as file:
-        file.write(data)
-        file.close()
-        return true
+def process_file(file_name):
+    try:
+        with open(file_name, 'r') as file:
+            # Lee la lista de números desde el archivo y convierte a una lista de ints
+            numbers = [float(line.strip()) for line in file.readlines()]
+            
+            # Calcula tiempo de inicio
+            start_time = time.time()
+
+            # Realiza las conversiones
+            binary_results, hexadecimal_results = convert_to_binary_and_hexadecimal(numbers)
+
+            # Calcula tiempo de finalización
+            end_time = time.time()
+
+            # Imprime resultados en la consola
+            for i, number in enumerate(numbers):
+                print(f'Number: {number}, Binary: {binary_results[i]}, Hexadecimal: {hexadecimal_results[i]}')
+
+            # Guarda resultados en el archivo de salida
+            with open('ConvertionResults.txt', 'w') as output_file:
+                for i, number in enumerate(numbers):
+                    output_file.write(f'Number: {number}, Binary: {binary_results[i]}, Hexadecimal: {hexadecimal_results[i]}\n')
+
+            # Imprime el tiempo transcurrido
+            elapsed_time = end_time - start_time
+            print(f'Time elapsed: {elapsed_time} seconds')
+
+    except FileNotFoundError:
+        print(f'Error: The file "{file_name}" was not found.')
+    except ValueError:
+        print('Error: Invalid data in the file. Please make sure the file contains only numbers.')
+
+
+
+
+def main():
+  process_file(FILE_NAME)
