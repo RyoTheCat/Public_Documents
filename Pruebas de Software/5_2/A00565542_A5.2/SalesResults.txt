@@ -1,0 +1,339 @@
+*****  Id: 1 Date: 01/12/23******
+1-> Rustic breakfast------
+--- Quantity: 1 total: 21.32
+2-> Sandwich with salad------
+--- Quantity: 2 total: 44.96
+3-> Raw legums------
+--- Quantity: 1 total: 17.11
+*** Total: 83.39***
+*****  Id: 2 Date: 01/12/23******
+1-> Fresh stawberry------
+--- Quantity: 1 total: 28.59
+2-> Pears juice------
+--- Quantity: 2 total: 38.98
+*** Total: 67.57***
+*****  Id: 3 Date: 01/12/23******
+1-> Green smoothie------
+--- Quantity: 3 total: 53.04
+2-> Cuban sandwiche------
+--- Quantity: 2 total: 37.0
+3-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+*** Total: 144.74***
+*****  Id: 4 Date: 01/12/23******
+1-> Tomatoes------
+--- Quantity: 1 total: 26.03
+2-> Plums------
+--- Quantity: 1 total: 19.18
+3-> Fresh blueberries------
+--- Quantity: 2 total: 42.02
+*** Total: 87.23***
+*****  Id: 5 Date: 01/12/23******
+1-> Green smoothie------
+--- Quantity: 2 total: 35.36
+2-> Corn------
+--- Quantity: 3 total: 40.650000000000006
+3-> French fries------
+--- Quantity: 1 total: 18.32
+*** Total: 94.33000000000001***
+*****  Id: 6 Date: 01/12/23******
+1-> Ground beef meat burger------
+--- Quantity: 1 total: 11.73
+2-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+3-> Cherry------
+--- Quantity: 2 total: 28.7
+4-> Homemade bread------
+--- Quantity: 1 total: 17.48
+5-> Smoothie with chia seeds------
+--- Quantity: 1 total: 25.26
+6-> Corn------
+--- Quantity: 1 total: 13.55
+7-> Peaches on branch------
+--- Quantity: 2 total: 51.24
+8-> Pesto with basil------
+--- Quantity: 2 total: 36.38
+*** Total: 239.04000000000002***
+*****  Id: 7 Date: 01/12/23******
+1-> Plums------
+--- Quantity: 1 total: 19.18
+2-> Fresh blueberries------
+--- Quantity: 2 total: 42.02
+3-> Green smoothie------
+--- Quantity: 4 total: 70.72
+4-> Corn------
+--- Quantity: 1 total: 13.55
+5-> French fries------
+--- Quantity: 2 total: 36.64
+*** Total: 182.11***
+*****  Id: 8 Date: 01/12/23******
+1-> Ground beef meat burger------
+--- Quantity: 3 total: 35.19
+2-> Hazelnut in black ceramic bowl------
+--- Quantity: 1 total: 27.35
+3-> Cherry------
+--- Quantity: 2 total: 28.7
+4-> Homemade bread------
+--- Quantity: 5 total: 87.4
+5-> Smoothie with chia seeds------
+--- Quantity: 2 total: 50.52
+6-> Corn------
+--- Quantity: 10 total: 135.5
+7-> Rustic breakfast------
+--- Quantity: 2 total: 42.64
+*** Total: 407.29999999999995***
+*****  Id: 9 Date: 02/12/23******
+1-> Sandwich with salad------
+--- Quantity: 3 total: 67.44
+2-> Raw legums------
+--- Quantity: 20 total: 342.2
+3-> Fresh stawberry------
+--- Quantity: 4 total: 114.36
+4-> Pears juice------
+--- Quantity: 1 total: 19.49
+5-> Green smoothie------
+--- Quantity: 8 total: 141.44
+6-> Cuban sandwiche------
+--- Quantity: 9 total: 166.5
+*** Total: 851.4300000000001***
+*****  Id: 10 Date: 02/12/23******
+1-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+2-> Tomatoes------
+--- Quantity: 1 total: 26.03
+3-> Plums------
+--- Quantity: 2 total: 38.36
+4-> Fresh blueberries------
+--- Quantity: 3 total: 63.03
+5-> Green smoothie------
+--- Quantity: 5 total: 88.4
+6-> Corn------
+--- Quantity: 4 total: 54.2
+*** Total: 324.71999999999997***
+*** TC1.Sales.json Grand Total: 2481.86***
+*****  Id: 1 Date: 01/12/23******
+1-> Rustic breakfast------
+--- Quantity: 200 total: 4264.0
+2-> Sandwich with salad------
+--- Quantity: 23 total: 517.04
+3-> Raw legums------
+--- Quantity: 11 total: 188.20999999999998
+*** Total: 4969.25***
+*****  Id: 2 Date: 01/12/23******
+1-> Fresh stawberry------
+--- Quantity: 221 total: 6318.39
+2-> Raw legums------
+--- Quantity: 2 total: 34.22
+*** Total: 6352.610000000001***
+*****  Id: 3 Date: 01/12/23******
+1-> Green smoothie------
+--- Quantity: 400 total: 7072.0
+2-> Cuban sandwiche------
+--- Quantity: 2 total: 37.0
+3-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+*** Total: 7163.7***
+*****  Id: 4 Date: 01/12/23******
+1-> Tomatoes------
+--- Quantity: 1 total: 26.03
+2-> Plums------
+--- Quantity: 250 total: 4795.0
+3-> Fresh blueberries------
+--- Quantity: 334 total: 7017.34
+*** Total: 11838.369999999999***
+*****  Id: 5 Date: 01/12/23******
+1-> Green smoothie------
+--- Quantity: 300 total: 5304.0
+2-> Corn------
+--- Quantity: 68 total: 921.4000000000001
+3-> French fries------
+--- Quantity: 33 total: 604.5600000000001
+*** Total: 6829.96***
+*****  Id: 6 Date: 01/12/23******
+1-> Ground beef meat burger------
+--- Quantity: 78 total: 914.94
+2-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+3-> Sweet fresh stawberry------
+--- Quantity: 87 total: 2562.15
+4-> Homemade bread------
+--- Quantity: 1 total: 17.48
+5-> Smoothie with chia seeds------
+--- Quantity: 46 total: 1161.96
+6-> Corn------
+--- Quantity: 1 total: 13.55
+7-> Plums------
+--- Quantity: 2 total: 38.36
+8-> Fresh blueberries------
+--- Quantity: 46 total: 966.46
+*** Total: 5729.599999999999***
+*****  Id: 7 Date: 01/12/23******
+1-> Green smoothie------
+--- Quantity: 1 total: 17.68
+2-> Corn------
+--- Quantity: 2 total: 27.1
+3-> French fries------
+--- Quantity: 4 total: 73.28
+4-> Ground beef meat burger------
+--- Quantity: 64 total: 750.72
+5-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+*** Total: 923.48***
+*****  Id: 8 Date: 01/12/23******
+1-> Sweet fresh stawberry------
+--- Quantity: 3 total: 88.35
+2-> Homemade bread------
+--- Quantity: 456 total: 7970.88
+3-> Smoothie with chia seeds------
+--- Quantity: 2 total: 50.52
+4-> Corn------
+--- Quantity: 5 total: 67.75
+5-> Plums------
+--- Quantity: 645 total: 12371.1
+6-> Fresh blueberries------
+--- Quantity: -35 total: -735.35
+7-> Green smoothie------
+--- Quantity: 2 total: 35.36
+*** Total: 19848.610000000004***
+*****  Id: 9 Date: 02/12/23******
+1-> Corn------
+--- Quantity: 465 total: 6300.75
+2-> French fries------
+--- Quantity: 20 total: 366.4
+3-> Ground beef meat burger------
+--- Quantity: 4 total: 46.92
+4-> Hazelnut in black ceramic bowl------
+--- Quantity: 1 total: 27.35
+5-> Sweet fresh stawberry------
+--- Quantity: 131 total: 3857.95
+6-> Homemade bread------
+--- Quantity: 9 total: 157.32
+*** Total: 10756.689999999999***
+*****  Id: 10 Date: 02/12/23******
+1-> Smoothie with chia seeds------
+--- Quantity: 13 total: 328.38
+2-> Corn------
+--- Quantity: 678 total: 9186.9
+3-> Plums------
+--- Quantity: 334 total: 6406.12
+4-> Fresh blueberries------
+--- Quantity: 3445 total: 72379.45000000001
+5-> Green smoothie------
+--- Quantity: -123 total: -2174.64
+6-> Corn------
+--- Quantity: 445 total: 6029.75
+*** Total: 92155.96***
+*** TC2.Sales.json Grand Total: 166568.23***
+*****  Id: 1 Date: 01/12/23******
+1-> Rustic breakfast------
+--- Quantity: 200 total: 4264.0
+2-> Sandwich with salad------
+--- Quantity: 23 total: 517.04
+3-> Raw legums------
+--- Quantity: 11 total: 188.20999999999998
+*** Total: 4969.25***
+*****  Id: 2 Date: 01/12/23******
+1-> Fresh stawberry------
+--- Quantity: 221 total: 6318.39
+2-> Raw legums------
+--- Quantity: 2 total: 34.22
+*** Total: 6352.610000000001***
+*****  Id: 3 Date: 01/12/23******
+1-> Green smoothie------
+--- Quantity: 400 total: 7072.0
+2-> Cuban sandwiche------
+--- Quantity: 2 total: 37.0
+3-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+*** Total: 7163.7***
+*****  Id: 4 Date: 01/12/23******
+1-> Tomatoes------
+--- Quantity: 1 total: 26.03
+2-> Plums------
+--- Quantity: 250 total: 4795.0
+3-> Fresh blueberries------
+--- Quantity: 334 total: 7017.34
+*** Total: 11838.369999999999***
+*****  Id: 5 Date: 01/12/23******
+1-> Green smoothie------
+--- Quantity: 300 total: 5304.0
+2-> Corn------
+--- Quantity: 68 total: 921.4000000000001
+3-> French fries------
+--- Quantity: 33 total: 604.5600000000001
+*** Total: 6829.96***
+*****  Id: 6 Date: 01/12/23******
+1-> Ground beef meat burger------
+--- Quantity: 78 total: 914.94
+2-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+3-> Sweet fresh stawberry------
+--- Quantity: 87 total: 2562.15
+4-> Homemade bread------
+--- Quantity: 1 total: 17.48
+5-> Smoothie with chia seeds------
+--- Quantity: 46 total: 1161.96
+6-> Corn------
+--- Quantity: 1 total: 13.55
+7-> Plums------
+--- Quantity: 2 total: 38.36
+8-> Elotes------
+--- Quantity: 100 total: 0
+*** Total: 4763.139999999999***
+*****  Id: 7 Date: 01/12/23******
+1-> Green smoothie------
+--- Quantity: 1 total: 17.68
+2-> Corn------
+--- Quantity: 2 total: 27.1
+3-> French fries------
+--- Quantity: 4 total: 73.28
+4-> Ground beef meat burger------
+--- Quantity: 64 total: 750.72
+5-> Hazelnut in black ceramic bowl------
+--- Quantity: 2 total: 54.7
+*** Total: 923.48***
+*****  Id: 8 Date: 01/12/23******
+1-> Sweet fresh stawberry------
+--- Quantity: 3 total: 88.35
+2-> Homemade bread------
+--- Quantity: 456 total: 7970.88
+3-> Smoothie with chia seeds------
+--- Quantity: 2 total: 50.52
+4-> Corn------
+--- Quantity: 5 total: 67.75
+5-> Plums------
+--- Quantity: 645 total: 12371.1
+6-> Fresh blueberries------
+--- Quantity: -35 total: -735.35
+7-> Green smoothie------
+--- Quantity: 2 total: 35.36
+*** Total: 19848.610000000004***
+*****  Id: 9 Date: 02/12/23******
+1-> Corn------
+--- Quantity: 465 total: 6300.75
+2-> Frijoles------
+--- Quantity: 100 total: 0
+3-> Ground beef meat burger------
+--- Quantity: 4 total: 46.92
+4-> Hazelnut in black ceramic bowl------
+--- Quantity: 1 total: 27.35
+5-> Sweet fresh stawberry------
+--- Quantity: 131 total: 3857.95
+6-> Homemade bread------
+--- Quantity: 9 total: 157.32
+*** Total: 10390.29***
+*****  Id: 10 Date: 02/12/23******
+1-> Smoothie with chia seeds------
+--- Quantity: 13 total: 328.38
+2-> Corn------
+--- Quantity: 678 total: 9186.9
+3-> Plums------
+--- Quantity: 334 total: 6406.12
+4-> Fresh blueberries------
+--- Quantity: 3445 total: 72379.45000000001
+5-> Green smoothie------
+--- Quantity: -123 total: -2174.64
+6-> Corn------
+--- Quantity: 445 total: 6029.75
+*** Total: 92155.96***
+*** TC3.Sales.json Grand Total: 165235.37***
