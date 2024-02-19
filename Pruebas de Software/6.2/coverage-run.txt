@@ -1,0 +1,172 @@
+hector_vazquez A00565542_A6_2 % python3 -m coverage run -m unittest 
+Intentando borrar el Cliente 1
+Limpiando información de Clientes
+
+
+.Antes de modificar
+Cliente 'Nombre 1': Apellido 1 - 11/04/2001
+Después de modificar
+Cliente 'Nuevo nombre': Apellido 1 - 11/04/2001
+Limpiando información de Clientes
+
+
+.El Cliente 99999 no se puede borrar
+Limpiando información de Clientes
+
+
+.Cliente 9999 no encontrado
+Limpiando información de Clientes
+
+
+.Cliente 'Nombre 1': Apellido 1 - 11/04/2001
+Limpiando información de Clientes
+
+
+.Limpiando información de Clientes
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Intentando borrar el Hotel 1
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Modificando información de hoteles
+Instancia Hotel Prueba1
+Antes de modificar
+Hotel Prueba1, Location 1
+Después de modificar
+Hotel Prueba de modificación, Location 1
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Instancia Hotel Prueba0
+La instancia 99999 no se pudo borrar
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Hotel 9999 no fue posible leerlo
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Desplegando información de hoteles
+Hotel Prueba1, Location 1
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Intentando borrar la Res 1
+Limpiando información de Clientes
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+Limpiando información de Reservaciones
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Antes de modificar
+Reservación '1' - 1
+Después de modificar
+Reservación '1' - 1
+Limpiando información de Clientes
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+Limpiando información de Reservaciones
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+El registro de Reservación 99999 no existe
+Limpiando información de Clientes
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+Limpiando información de Reservaciones
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Reservación 9999 no encontrada, no se pudo cargar
+Limpiando información de Clientes
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+Limpiando información de Reservaciones
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Reservación '2' - 2
+Limpiando información de Clientes
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+Limpiando información de Reservaciones
+
+
+.Instancia Hotel Prueba0
+Instancia Hotel Prueba1
+Limpiando información de Clientes
+Instancia Hotel Prueba0
+Instancia Hotel Prueba0 borrada
+Instancia Hotel Prueba1
+Instancia Hotel Prueba1 borrada
+Limpiando información de Hoteles
+Limpiando información de Reservaciones
+
+
+.
+----------------------------------------------------------------------
+Ran 18 tests in 0.073s
+
+OK

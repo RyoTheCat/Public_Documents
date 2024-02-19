@@ -1,0 +1,29 @@
+hector_vazquez A00565542_A6.2 % pylint hotel.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+hector_vazquez A00565542_A6.2 % pylint customer.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+hector_vazquez A00565542_A6.2 % pylint reservation.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+hector_vazquez A00565542_A6.2 % pylint archivos.py
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+hector_vazquez A00565542_A6.2 % flake8 hotel.py
+hector_vazquez A00565542_A6.2 % flake8 customer.py
+hector_vazquez A00565542_A6.2 % flake8 reservation.py 
+hector_vazquez A00565542_A6.2 % flake8 archivos.py
+hector_vazquez A00565542_A6.2 % 
+
+
+
+
